@@ -1,0 +1,28 @@
+name: Cody SD Burkhart
+favicon: null
+layout_spectrum: 0.07193639758042991
+typography_spectrum: 0.9847589645069093
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.17893362161703408
+  lightness: 0.2807503736112267
+  saturation: 0.9079029601998627
+  rhythmicContrast: 0.4772606147453189
+purpose: []
